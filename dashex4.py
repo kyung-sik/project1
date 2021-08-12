@@ -235,4 +235,4 @@ def update_graph3(radio_value, cnts):
     return fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8080, host='localhost')
+    app.run_server()
